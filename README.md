@@ -30,6 +30,8 @@ The product thesis statement (as shared with Product People by Jason Evanish of 
 
 - Links relevant to building this solution...may include similar products or designs that can inspire it.
 
+[Original post - How to Write a Product Thesis](http://jasonevanish.com/2014/06/03/how-to-write-a-product-thesis-to-communicate-customer-needs-to-design-and-engineering-teams/)
+
 Special thanks to:
-Jason Evanish: twitter.com/evanish
-KISSmetrics: kissmetrics.com
+Jason Evanish ([@evanish](https://twitter.com/evanish))
+[KISSmetrics](https://www.kissmetrics.com/)
